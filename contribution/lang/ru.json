@@ -586,7 +586,7 @@
  	 	 	 	"eng": "Inventory"
  	 	 	},
  	 	 	"itemInbox": {
- 	 	 	 	"trans": "Входящие предметы",
+ 	 	 	 	"trans": "Почта",
  	 	 	 	"eng": "Item Inbox"
  	 	 	},
  	 	 	"crafting": {
@@ -1956,7 +1956,7 @@
  	 	},
  	 	"itemInbox": {
  	 	 	"title": {
- 	 	 	 	"trans": "Входящие предметы",
+ 	 	 	 	"trans": "Почта",
  	 	 	 	"eng": "Item Inbox"
  	 	 	},
  	 	 	"description": {
@@ -4075,7 +4075,7 @@
  	 	 	 	"eng": "Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Транслирует коды взлома всем кибернетически подлкюченным пользователям, разгоняя их синаптические процессоры, тем самым обеспечивая сверхчеловеческие умственные способности на короткий период времени.\r\n        \r\n        При использовании дает глобальное ускорение всем игрокам онлайн, позволяя им выполнять AFK задачи на 5% быстрее в течение 10 минут (эффект складывается)",
+ 	 	 	 	"trans": "Транслирует коды взлома всем кибернетически подключенным пользователям, разгоняя их синаптические процессоры, тем самым обеспечивая сверхчеловеческие умственные способности на короткий период времени.\r\n        \r\n        При использовании дает глобальное ускорение всем игрокам онлайн, позволяя им выполнять AFK задачи на 5% быстрее в течение 10 минут (эффект складывается)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +5% speed for 10 minutes (stackable)"
  	 	 	}
  	 	},
